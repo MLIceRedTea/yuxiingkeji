@@ -8,6 +8,7 @@ public interface CartService {
 
 
     /**
+     *哈哈哈
      * 合并购物车
      * @param cartList1
      * @param cartList2
