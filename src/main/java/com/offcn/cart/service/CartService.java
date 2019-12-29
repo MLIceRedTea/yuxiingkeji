@@ -2,10 +2,14 @@ package com.offcn.cart.service;
 
 import com.offcn.group.Cart;
 
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 
 public interface CartService {
+    public HashMap test1();
     public List test();
+    public HashSet test2();
 
 
     /**
