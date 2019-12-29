@@ -5,6 +5,7 @@ import com.offcn.group.Cart;
 import java.util.List;
 
 public interface CartService {
+    public List test();
 
 
     /**
