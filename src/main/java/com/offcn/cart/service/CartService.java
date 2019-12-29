@@ -3,13 +3,16 @@ package com.offcn.cart.service;
 import com.offcn.group.Cart;
 
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 public interface CartService {
+    public Map test2();
     public List test();
+    public Set test1();
 
 
     /**
-     * 蛙哈哈
      *哈哈哈
      * 合并购物车
      * @param cartList1
